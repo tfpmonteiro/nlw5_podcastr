@@ -19,4 +19,11 @@
     margin-left: auto;
     text-transform: capitalize;
   }
+
+  img {
+    &:hover{
+      cursor: pointer;
+    }
+  }
 }
+ 
